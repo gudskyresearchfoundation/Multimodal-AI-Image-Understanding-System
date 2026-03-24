@@ -1,0 +1,37 @@
+Initial commit - Qwen VLM project
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# interactive rebase in progress; onto 868d4dd
+# Last command done (1 command done):
+#    pick 749ab48 Initial commit - Qwen VLM project
+# Next command to do (1 remaining command):
+#    pick 5f778c2 Clean repository before push
+# You are currently rebasing branch 'main' on '868d4dd'.
+#
+# Changes to be committed:
+#	new file:   .cursor-server
+#	modified:   .gitignore
+#	new file:   .idea/this_studio.iml
+#	new file:   .lightning_studio/.studiorc
+#	new file:   .lightning_studio/on_start.sh
+#	new file:   .lightning_studio/on_stop.sh
+#	new file:   .ollama/history
+#	new file:   .ollama/id_ed25519
+#	new file:   .ollama/id_ed25519.pub
+#	new file:   .streamlit/machine_id_v4
+#	new file:   .vscode-server
+#	new file:   .vscode/settings.json
+#	new file:   .windsurf-server
+#	new file:   app.py
+#	new file:   bung.jpg
+#	new file:   config.py
+#	new file:   llm_engine.py
+#	new file:   main.py
+#	new file:   modules/image_processor.py
+#	new file:   requirements.txt
+#	new file:   setup.sh
+#	new file:   utils/prompt_templates.py
+#	new file:   vlm_engine.py
+#
